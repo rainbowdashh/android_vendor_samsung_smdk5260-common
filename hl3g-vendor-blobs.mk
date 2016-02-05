@@ -137,4 +137,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
     vendor/samsung/hl3g/proprietary/lib/libExynosOMX_Resourcemanager.so:system/lib/libExynosOMX_Resourcemanager.so \
     vendor/samsung/hl3g/proprietary/lib/libExynosOMX_Core.so:system/lib/libExynosOMX_Core.so \
-    vendor/samsung/hl3g/proprietary/lib/libExynosHWCService.so:system/lib/libExynosHWCService.so
+    vendor/samsung/hl3g/proprietary/lib/libExynosHWCService.so:system/lib/libExynosHWCService.so \
+    vendor/samsung/hl3g/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
+    vendor/samsung/hl3g/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so
