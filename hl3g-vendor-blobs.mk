@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/hl3g/proprietary/etc/wifi/bcmdhd_sta.bin:system/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/hl3g/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-    vendor/samsung/hl3g/proprietary/vendor/firmware/bcm4335_V0105.0540.hcd:system/vendor/firmware/bcm4335_V0105.0540.hcd \
     vendor/samsung/hl3g/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/00060308060501020000000000000000.tlbin:system/app/mcRegistry/00060308060501020000000000000000.tlbin \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/02010000080300030000000000000000.tlbin:system/app/mcRegistry/02010000080300030000000000000000.tlbin \
@@ -57,7 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/hl3g/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-    vendor/samsung/hl3g/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/hl3g/proprietary/lib/hw/audio.primary.universal5260.so:system/lib/hw/audio.primary.universal5260.so \
     vendor/samsung/hl3g/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
     vendor/samsung/hl3g/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
@@ -66,6 +64,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
     vendor/samsung/hl3g/proprietary/lib/hw/hwcomposer.exynos5.so:system/lib/hw/hwcomposer.exynos5.so \
     vendor/samsung/hl3g/proprietary/lib/hw/keystore.exynos5.so:system/lib/hw/keystore.exynos5.so \
+    vendor/samsung/hl3g/proprietary/lib/hw/memtrack.exynos5.so:system/lib/hw/memtrack.exynos5.so \
+    vendor/samsung/hl3g/proprietary/lib/hw/power.exynos5.so:system/lib/hw/power.exynos5.so \
     vendor/samsung/hl3g/proprietary/media/wireless_left.spi:system/media/wireless_left.spi \
     vendor/samsung/hl3g/proprietary/media/wireless_right.spi:system/media/wireless_right.spi \
     vendor/samsung/hl3g/proprietary/media/battery_cover.spi:system/media/battery_cover.spi \
@@ -88,6 +88,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/hl3g/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/samsung/hl3g/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/hl3g/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
+    vendor/samsung/hl3g/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
+    vendor/samsung/hl3g/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
+    vendor/samsung/hl3g/proprietary/vendor/firmware/bcm4335_V0105.0540.hcd:system/vendor/firmware/bcm4335_V0105.0540.hcd \
     vendor/samsung/hl3g/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/hl3g/proprietary/lib/libvirtualdisplaymodule.so:system/lib/libvirtualdisplaymodule.so \
     vendor/samsung/hl3g/proprietary/lib/libvirtualdisplay.so:system/lib/libvirtualdisplay.so \
