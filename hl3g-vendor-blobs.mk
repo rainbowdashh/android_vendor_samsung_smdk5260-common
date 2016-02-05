@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/hl3g/proprietary/bin/smdexe:system/bin/smdexe \
     vendor/samsung/hl3g/proprietary/bin/wlandutservice:system/bin/wlandutservice \
-    vendor/samsung/hl3g/proprietary/etc/gps.conf:system/etc/gps.conf \
     vendor/samsung/hl3g/proprietary/etc/gps.xml:system/etc/gps.xml \
     vendor/samsung/hl3g/proprietary/etc/init.sec.boot.sh:system/etc/init.sec.boot.sh \
     vendor/samsung/hl3g/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
