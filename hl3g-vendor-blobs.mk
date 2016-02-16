@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/hl3g/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
-    vendor/samsung/hl3g/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/hl3g/proprietary/lib/hw/audio.primary.universal5260.so:system/lib/hw/audio.primary.universal5260.so \
     vendor/samsung/hl3g/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
     vendor/samsung/hl3g/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
