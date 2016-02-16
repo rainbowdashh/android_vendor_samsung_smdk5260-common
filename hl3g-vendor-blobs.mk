@@ -141,4 +141,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hl3g/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
     vendor/samsung/hl3g/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/hl3g/proprietary/lib/libion.so:system/lib/libion.so \
-    vendor/samsung/hl3g/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so
+    vendor/samsung/hl3g/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
+    vendor/samsung/hl3g/proprietary/lib/libvdis.so:system/lib/libvdis.so \
+    vendor/samsung/hl3g/proprietary/lib/libymc_config.so:system/lib/libymc_config.so
