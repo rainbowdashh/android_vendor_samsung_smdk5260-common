@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/setfile_imx175.bin:system/vendor/firmware/setfile_imx175.bin \
     vendor/samsung/smdk5260/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/smdk5260/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/smdk5260/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/smdk5260/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
