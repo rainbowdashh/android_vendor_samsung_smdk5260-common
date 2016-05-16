@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/smdk5260/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/smdk5260/proprietary/lib/libvdis.so:system/lib/libvdis.so \
+    vendor/samsung/smdk5260/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/setfile_imx175.bin:system/vendor/firmware/setfile_imx175.bin \
     vendor/samsung/smdk5260/proprietary/bin/gpsd:system/bin/gpsd \
