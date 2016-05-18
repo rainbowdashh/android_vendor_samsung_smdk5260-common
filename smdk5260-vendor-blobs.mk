@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/fimc_is_fw2.bin:system/vendor/firmware/fimc_is_fw2.bin \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/smdk5260/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
-    vendor/samsung/smdk5260/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/smdk5260/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/smdk5260/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
@@ -56,6 +55,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/smdk5260/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/smdk5260/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/smdk5260/proprietary/bin/ddexe:system/bin/ddexe \
+    vendor/samsung/smdk5260/proprietary/bin/smdexe:system/bin/smdexe \
+    vendor/samsung/smdk5260/proprietary/bin/connfwexe:system/bin/connfwexe \
+    vendor/samsung/smdk5260/proprietary/bin/mlexe:system/bin/mlexe \
+    vendor/samsung/smdk5260/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/smdk5260/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/smdk5260/proprietary/app/FFFFFFFF000000000000000000000001.drbin:system/app/FFFFFFFF000000000000000000000001.drbin \
     vendor/samsung/smdk5260/proprietary/app/mcRegistry/00060308060501020000000000000000.tlbin:system/app/mcRegistry/00060308060501020000000000000000.tlbin \
