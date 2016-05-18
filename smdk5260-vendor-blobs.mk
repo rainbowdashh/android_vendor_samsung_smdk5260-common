@@ -40,8 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/smdk5260/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
-    vendor/samsung/smdk5260/proprietary/lib/libRSCpuRef.so:system/lib/libRSCpuRef.so \
-    vendor/samsung/smdk5260/proprietary/lib/libRSDriver.so:system/lib/libRSDriver.so \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/smdk5260/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/smdk5260/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
