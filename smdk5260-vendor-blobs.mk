@@ -44,6 +44,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/smdk5260/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
     vendor/samsung/smdk5260/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
+    vendor/samsung/smdk5260/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+    vendor/samsung/smdk5260/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
+    vendor/samsung/smdk5260/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
     vendor/samsung/smdk5260/proprietary/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so:system/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so \
     vendor/samsung/smdk5260/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/smdk5260/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
