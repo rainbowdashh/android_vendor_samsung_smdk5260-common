@@ -76,7 +76,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/lib/lib_Samsung_AudioZoom_v102.so:system/lib/lib_Samsung_AudioZoom_v102.so \
     vendor/samsung/smdk5260/proprietary/lib/lib_DNSe_EP_ver216c.so:system/lib/lib_DNSe_EP_ver216c.so \
     vendor/samsung/smdk5260/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
-    vendor/samsung/smdk5260/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/smdk5260/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \
     vendor/samsung/smdk5260/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/smdk5260/proprietary/etc/ymc/param/aec_adc.dat:system/etc/ymc/param/aec_adc.dat \
