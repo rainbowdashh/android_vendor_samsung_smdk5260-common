@@ -56,7 +56,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/smdk5260/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/smdk5260/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
-    vendor/samsung/smdk5260/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/smdk5260/proprietary/bin/ddexe:system/bin/ddexe \
     vendor/samsung/smdk5260/proprietary/bin/smdexe:system/bin/smdexe \
     vendor/samsung/smdk5260/proprietary/bin/connfwexe:system/bin/connfwexe \
