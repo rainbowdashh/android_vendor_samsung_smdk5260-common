@@ -14,6 +14,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter hl3g hllte,$(TARGET_DEVICE)),)
+ifneq ($(filter hl3g hllte m2alte,$(TARGET_DEVICE)),)
 
 endif
