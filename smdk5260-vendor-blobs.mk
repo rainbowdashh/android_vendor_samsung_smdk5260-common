@@ -29,6 +29,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/sec_s3fnrn3_firmware.bin:system/vendor/firmware/sec_s3fnrn3_firmware.bin \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/fimc_is_fw2.bin:system/vendor/firmware/fimc_is_fw2.bin \
     vendor/samsung/smdk5260/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
+    vendor/samsung/smdk5260/proprietary/lib/hw/camera.universal5260.so:system/lib/hw/camera.universal5260.so \
+    vendor/samsung/smdk5260/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/smdk5260/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/smdk5260/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/smdk5260/proprietary/cameradata/datapattern_420sp.yuv:system/cameradata/datapattern_420sp.yuv \
