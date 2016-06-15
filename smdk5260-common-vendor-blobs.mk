@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/smdk5260-common/proprietary/bin/immvibed:system/bin/immvibed \
+    vendor/samsung/smdk5260-common/proprietary/lib/hw/power.exynos5.so:system/lib/hw/power.exynos5.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
@@ -38,6 +39,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libmllite.so:system/lib/libmllite.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
+    vendor/samsung/smdk5260-common/proprietary/etc/PDC.ini:system/etc/PDC.ini \
+    vendor/samsung/smdk5260-common/proprietary/etc/PARAM.ini:system/etc/PARAM.ini \
     vendor/samsung/smdk5260-common/proprietary/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so:system/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so \
     vendor/samsung/smdk5260-common/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
