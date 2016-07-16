@@ -22,6 +22,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/setfile_imx175.bin:system/vendor/firmware/setfile_imx175.bin \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_picaction.so:system/lib/libarcsoft_picaction.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_sensorndk.so:system/lib/libarcsoft_sensorndk.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_night_shot_ex.so:system/lib/libarcsoft_night_shot_ex.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_picaction_manual.so:system/lib/libarcsoft_picaction_manual.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_selfie_camera_lite.so:system/lib/libarcsoft_selfie_camera_lite.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libseccamera_jni.so:system/lib/libseccamera_jni.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/smdk5260-common/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
