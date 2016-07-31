@@ -382,19 +382,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
     vendor/samsung/smdk5260-common/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/smdk5260-common/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
-    vendor/samsung/smdk5260-common/proprietary/bin/scranton_RD:system/bin/scranton_RD \
-    vendor/samsung/smdk5260-common/proprietary/media/wireless_left.spi:system/media/wireless_left.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/wireless_right.spi:system/media/wireless_right.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/battery_cover.spi:system/media/battery_cover.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/battery_error.spi:system/media/battery_error.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/particle_intro.spi:system/media/particle_intro.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/particle_loop.spi:system/media/particle_loop.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/lcd_density.txt:system/media/lcd_density.txt \
-    vendor/samsung/smdk5260-common/proprietary/media/percentage.spi:system/media/percentage.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/battery_temperature_error.spi:system/media/battery_temperature_error.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/battery_low.spi:system/media/battery_low.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/dock_error.spi:system/media/dock_error.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/wave_loop.spi:system/media/wave_loop.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/incompatible_charger.spi:system/media/incompatible_charger.spi \
-    vendor/samsung/smdk5260-common/proprietary/media/battery_temperature_limit.spi:system/media/battery_temperature_limit.spi \
-    vendor/samsung/smdk5260-common/proprietary/bin/lpm:system/bin/lpm
+    vendor/samsung/smdk5260-common/proprietary/bin/scranton_RD:system/bin/scranton_RD
