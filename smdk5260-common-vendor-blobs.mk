@@ -33,6 +33,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libarcsoft_skin_soften.so:system/lib/libarcsoft_skin_soften.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libvdis.so:system/lib/libvdis.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/smdk5260-common/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
