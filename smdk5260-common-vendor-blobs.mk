@@ -333,7 +333,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libvdis.so:system/lib/libvdis.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/smdk5260-common/proprietary/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.universal5260.so:system/lib/hw/gps.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/egl/libGLES_mali.so:system/vendor/lib/egl/libGLES_mali.so \
