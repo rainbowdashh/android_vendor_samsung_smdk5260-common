@@ -369,7 +369,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/smdk5260-common/proprietary/bin/mlexe:system/bin/mlexe \
     vendor/samsung/smdk5260-common/proprietary/bin/at_distributor:system/bin/at_distributor \
-    vendor/samsung/smdk5260-common/proprietary/vendor/lib/libRSDriverArm.so:system/vendor/lib/libRSDriverArm.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libmllite.so:system/lib/libmllite.so \
