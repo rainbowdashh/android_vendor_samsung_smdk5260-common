@@ -376,7 +376,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
     vendor/samsung/smdk5260-common/proprietary/etc/PDC.ini:system/etc/PDC.ini \
     vendor/samsung/smdk5260-common/proprietary/etc/PARAM.ini:system/etc/PARAM.ini \
-    vendor/samsung/smdk5260-common/proprietary/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so:system/app/SmartClipServiceHLMR/lib/arm/libgnustl_shared.so \
     vendor/samsung/smdk5260-common/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/smdk5260-common/proprietary/lib/liboemcrypto.so:system/lib/liboemcrypto.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
