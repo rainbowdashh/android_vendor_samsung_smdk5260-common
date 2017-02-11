@@ -341,7 +341,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio.primary.universal5260.so:system/lib/hw/audio.primary.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/camera.vendor.universal5260.so:system/lib/hw/camera.vendor.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.universal5260.so:system/lib/hw/gps.universal5260.so \
-    vendor/samsung/smdk5260-common/proprietary/lib/hw/power.exynos5.so:system/lib/hw/power.exynos5.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
