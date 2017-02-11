@@ -44,8 +44,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/bin/mlexe:system/bin/mlexe \
     vendor/samsung/smdk5260-common/proprietary/bin/scranton_RD:system/bin/scranton_RD \
     vendor/samsung/smdk5260-common/proprietary/bin/smdexe:system/bin/smdexe \
+    vendor/samsung/smdk5260-common/proprietary/etc/audio_effects.conf:system/etc/audio_effects.conf \
+    vendor/samsung/smdk5260-common/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
+    vendor/samsung/smdk5260-common/proprietary/etc/gps.conf:system/etc/gps.conf \
+    vendor/samsung/smdk5260-common/proprietary/etc/mixer_paths.xml:system/etc/mixer_paths.xml \
     vendor/samsung/smdk5260-common/proprietary/etc/PARAM.ini:system/etc/PARAM.ini \
     vendor/samsung/smdk5260-common/proprietary/etc/PDC.ini:system/etc/PDC.ini \
+    vendor/samsung/smdk5260-common/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
+    vendor/samsung/smdk5260-common/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_adc.dat:system/etc/ymc/param/aec_adc.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_ae0_through.dat:system/etc/ymc/param/aec_ae0_through.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_ae1_through.dat:system/etc/ymc/param/aec_ae1_through.dat \
@@ -330,6 +336,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sidetone_vol_nb.dat:system/etc/ymc/param/aec_sidetone_vol_nb.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sidetone_vol_wb.dat:system/etc/ymc/param/aec_sidetone_vol_wb.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sp_dac1.dat:system/etc/ymc/param/aec_sp_dac1.dat \
+    vendor/samsung/smdk5260-common/proprietary/etc/ysound.xml:system/etc/ysound.xml \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio_policy.universal5260.so:system/lib/hw/audio_policy.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio.primary.universal5260.so:system/lib/hw/audio.primary.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/camera.vendor.universal5260.so:system/lib/hw/camera.vendor.universal5260.so \
@@ -372,6 +379,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \
     vendor/samsung/smdk5260-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
+    vendor/samsung/smdk5260-common/proprietary/usr/idc/ft5x06_ts.idc:system/usr/idc/ft5x06_ts.idc \
+    vendor/samsung/smdk5260-common/proprietary/usr/idc/Synaptics_HID_TouchPad.idc:system/usr/idc/Synaptics_HID_TouchPad.idc \
+    vendor/samsung/smdk5260-common/proprietary/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc:system/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/fimc_is_fw2.bin:system/vendor/firmware/fimc_is_fw2.bin \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
