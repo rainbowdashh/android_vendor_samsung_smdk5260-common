@@ -378,9 +378,11 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \
     vendor/samsung/smdk5260-common/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
     vendor/samsung/smdk5260-common/proprietary/usr/idc/ft5x06_ts.idc:system/usr/idc/ft5x06_ts.idc \
     vendor/samsung/smdk5260-common/proprietary/usr/idc/Synaptics_HID_TouchPad.idc:system/usr/idc/Synaptics_HID_TouchPad.idc \
     vendor/samsung/smdk5260-common/proprietary/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc:system/usr/idc/Synaptics_RMI4_TouchPad_Sensor.idc \
+    vendor/samsung/smdk5260-common/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/fimc_is_fw2.bin:system/vendor/firmware/fimc_is_fw2.bin \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \
     vendor/samsung/smdk5260-common/proprietary/vendor/firmware/setfile_6b2.bin:system/vendor/firmware/setfile_6b2.bin \
