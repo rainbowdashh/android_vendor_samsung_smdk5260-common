@@ -4228,7 +4228,7 @@
         <mixer name="Adif1 Input Volume" value0="96" value1="96" />
         <mixer name="Adif1 Input Switch" value0="1" value1="1" />
         <mixer name="ADIF1 Source" value0="1" value1="2" />
-        <mixer name="Mic1 Volume" value0="48" />
+        <mixer name="Mic1 Volume" value0="47" />
         <mixer name="Mic1 Switch" value0="1" />
         <mixer name="Music Out0 Swap" value0="0" />
         <mixer name="Input Path" value0="MainMIC" />
@@ -4435,7 +4435,7 @@
         <mixer name="Adif1 Input Switch" value0="1" value1="1" />
         <mixer name="ADIF1 Source" value0="1" value1="2" />
         <mixer name="Sub Mic" value0="MIC2" />
-        <mixer name="Mic1 Volume" value0="49" />
+        <mixer name="Mic1 Volume" value0="48" />
         <mixer name="Mic1 Switch" value0="1" />
         <mixer name="Mic2 Volume" value0="47" />
         <mixer name="Mic2 Switch" value0="1" />
