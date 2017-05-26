@@ -336,7 +336,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sidetone_vol_nb.dat:system/etc/ymc/param/aec_sidetone_vol_nb.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sidetone_vol_wb.dat:system/etc/ymc/param/aec_sidetone_vol_wb.dat \
     vendor/samsung/smdk5260-common/proprietary/etc/ymc/param/aec_sp_dac1.dat:system/etc/ymc/param/aec_sp_dac1.dat \
-    vendor/samsung/smdk5260-common/proprietary/etc/ysound.xml:system/etc/ysound.xml \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio.primary.vendor.universal5260.so:system/lib/hw/audio.primary.vendor.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio_policy.universal5260.so:system/lib/hw/audio_policy.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/camera.vendor.universal5260.so:system/lib/hw/camera.vendor.universal5260.so \
