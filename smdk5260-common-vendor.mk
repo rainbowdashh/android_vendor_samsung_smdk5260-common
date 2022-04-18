@@ -443,3 +443,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/liblvvetx_3.20.03.so:system/vendor/lib/liblvvetx_3.20.03.so \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/libmalicore.bc:system/vendor/lib/libmalicore.bc \
     vendor/samsung/smdk5260-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+
+# stlport    
+ PRODUCT_COPY_FILES += \
+     vendor/samsung/smdk5260-common/proprietary/lib/libstlport.so:system/lib/libstlport.so
