@@ -340,7 +340,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/audio_policy.universal5260.so:system/lib/hw/audio_policy.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/camera.vendor.universal5260.so:system/lib/hw/camera.vendor.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/smdk5260-common/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.universal5260.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/hw/sensors.universal5260.so:system/lib/hw/sensors.vendor.universal5260.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libArcPiClear.so:system/lib/libArcPiClear.so \
     vendor/samsung/smdk5260-common/proprietary/lib/lib_DNSe_EP_ver216c.so:system/lib/lib_DNSe_EP_ver216c.so \
     vendor/samsung/smdk5260-common/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
