@@ -347,6 +347,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/lib/lib_Samsung_AudioZoom_v102.so:system/lib/lib_Samsung_AudioZoom_v102.so \
     vendor/samsung/smdk5260-common/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
     vendor/samsung/smdk5260-common/proprietary/lib/lib_Samsung_SB_AM_for_ICS_v04004.so:system/lib/lib_Samsung_SB_AM_for_ICS_v04004.so \
+    vendor/samsung/smdk5260-common/proprietary/lib/libcutils_cancer.so:system/lib/libcutils_cancer.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libak09911c.so:system/lib/libak09911c.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libarccamera.so:system/lib/libarccamera.so \
     vendor/samsung/smdk5260-common/proprietary/lib/libarcgif.so:system/lib/libarcgif.so \
