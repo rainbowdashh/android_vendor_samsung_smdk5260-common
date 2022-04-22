@@ -38,6 +38,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/smdk5260-common/proprietary/bin/connfwexe:system/bin/connfwexe \
     vendor/samsung/smdk5260-common/proprietary/bin/ddexe:system/bin/ddexe \
+    vendor/samsung/smdk5260-common/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/smdk5260-common/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/smdk5260-common/proprietary/bin/mlexe:system/bin/mlexe \
     vendor/samsung/smdk5260-common/proprietary/bin/scranton_RD:system/bin/scranton_RD \
