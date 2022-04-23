@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk5260-common/proprietary/etc/PDC.ini:system/etc/PDC.ini \
     vendor/samsung/smdk5260-common/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/samsung/smdk5260-common/proprietary/etc/gps.conf:system/etc/gps.conf \
-    vendor/samsung/smdk5260-common/proprietary/etc/media_profiles.xml:system/etc/media_profiles.xml \
     vendor/samsung/smdk5260-common/proprietary/etc/mixer_paths.xml:system/etc/mixer_paths.xml \
     vendor/samsung/smdk5260-common/proprietary/etc/wifi/p2p_supplicant_overlay.conf:system/etc/wifi/p2p_supplicant_overlay.conf \
     vendor/samsung/smdk5260-common/proprietary/etc/wifi/wpa_supplicant_overlay.conf:system/etc/wifi/wpa_supplicant_overlay.conf \
